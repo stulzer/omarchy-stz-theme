@@ -12,7 +12,7 @@ background = "#1a1b26"
 
 # Selection colors
 selection_foreground = "#1a1b26"
-selection_background = "#9aa5ce"
+selection_background = "#283457"
 
 # Normal colors (ANSI 0-7)
 color0 = "#15161e"

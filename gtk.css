@@ -26,7 +26,7 @@
 @define-color window_bg_color   #1a1b26;
 @define-color window_fg_color   #c0caf5;
 
-@define-color view_bg_color     #1f2335;
+@define-color view_bg_color     #292e42;
 @define-color view_fg_color     #c0caf5;
 
 @define-color sidebar_bg_color  #16161e;
@@ -39,7 +39,7 @@
 @define-color headerbar_backdrop_color #3d59a1;
 @define-color headerbar_shade_color    #3d59a1;
 
-@define-color card_bg_color      #1f2335;
+@define-color card_bg_color      #292e42;
 @define-color card_fg_color      #c0caf5;
 
 @define-color popover_bg_color   #292e42;
@@ -70,7 +70,7 @@
 @define-color theme_selected_fg_color  @black;
 @define-color insensitive_bg_color     #1a1b26;
 @define-color insensitive_fg_color     #565f89;
-@define-color insensitive_base_color   #1f2335;
+@define-color insensitive_base_color   #292e42;
 @define-color theme_unfocused_fg_color @foreground;
 @define-color theme_unfocused_text_color @foreground;
 @define-color theme_unfocused_bg_color @background;
@@ -84,7 +84,7 @@
 @define-color success_color @green;
 @define-color destructive_color @red;
 
-@define-color content_view_bg  #1f2335;
+@define-color content_view_bg  #292e42;
 @define-color text_view_bg     #292e42;
 
     messagedialog {

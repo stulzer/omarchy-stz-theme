@@ -21,6 +21,3 @@ Or via the Omarchy menu:
 - Terminals (Kitty, Ghostty, Alacritty)
 - Bypass's Theme Hook (Spotify, Discord, etc.)
 
-## Waybar
-
-See [minimal-waybar-themes v4.x](https://github.com/atif-1402/minimal-waybar-themes?tab=readme-ov-file#v4x) for a compatible Waybar config.
