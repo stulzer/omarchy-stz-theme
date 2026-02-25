@@ -1,26 +1,25 @@
-@define-color bg #1a1b26;
-@define-color fg #c0caf5;
-@define-color gray1 #9ece6a;
-@define-color gray2 #3b4261;
-@define-color gray3 #7aa2f7;
-@define-color gray4 #e0af68;
-@define-color gray5 #bb9af7;
-@define-color fg_bright #c0caf5;
+@define-color bg      #1a1b26;
+@define-color fg      #c0caf5;
+@define-color green   #9ece6a;
+@define-color border  #3b4261;
+@define-color blue    #7aa2f7;
+@define-color yellow  #e0af68;
+@define-color purple  #bb9af7;
 
 window {
     background-color: @bg;
-    border: 2px solid @gray3;
+    border: 2px solid @blue;
 }
 
 input {
     background-color: @bg;
     color: @fg;
-    border: 1px solid @gray2;
+    border: 1px solid @border;
 }
 
 input:selected {
-    background-color: @gray1;
-    color: @fg_bright;
+    background-color: @green;
+    color: @fg;
 }
 
 #entry {
@@ -31,8 +30,8 @@ input:selected {
 }
 
 #entry:selected {
-    background-color: @gray1;
-    color: @fg_bright;
+    background-color: @green;
+    color: @fg;
 }
 
 scrollbar {
@@ -40,10 +39,10 @@ scrollbar {
 }
 
 scrollbar slider {
-    background-color: @gray2;
+    background-color: @border;
     border-radius: 5px;
 }
 
 scrollbar slider:hover {
-    background-color: @gray3;
+    background-color: @blue;
 }
